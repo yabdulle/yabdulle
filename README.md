@@ -1,6 +1,6 @@
 ### Hi there 👋🏾
 
-My name is Yusuf and I'm a Honorary Researcher @ the UCL Institute of Neurology 
+My name is Yusuf!
 
 - 🧐 My interests lie at the intersection of health and data science, as well as the synergy between education and data science.
 - 🔭 I’m currently looking at :
