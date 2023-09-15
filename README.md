@@ -2,7 +2,7 @@
 
 My name is Yusuf and I'm a Honorary Researcher @ the UCL Institute of Neurology 
 
-- 🧐 🧐 My interests lie at the intersection of health and data science, as well as the synergy between education and data science.
+- 🧐 My interests lie at the intersection of health and data science, as well as the synergy between education and data science.
 - 🔭 I’m currently working on :
   * 🧠 Characteristicing molecular and connnectomic features of ALS and FTD including neurotransmitter profiles
   * 👨🏾‍💻 Developing Graph Neural Networks for classifying patients with FTD and ALS.
