@@ -2,10 +2,12 @@
 
 My name is Yusuf and I'm a Honorary Researcher @ the UCL Institute of Neurology 
 
-- 🧐 I'm interested in the crossover between health and data science as well as education and data science!
+- 🧐 🧐 My interests lie at the intersection of health and data science, as well as the synergy between education and data science.
 - 🔭 I’m currently working on :
   * 🧠 Characteristicing molecular and connnectomic features of ALS and FTD including neurotransmitter profiles
-  * 👨🏾‍💻 Classifying patients with FTD and ALS using Graph Neural Networks
+  * 👨🏾‍💻 Developing Graph Neural Networks for classifying patients with FTD and ALS.
   * 📚 A systematic review looking into "[Peripheral and CSF inflammatory markers in individuals with ALS and FTD](https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=212528)"
   * 🏥 Modelling of diagnostic and treatment pathways for diseases
-- 🌱 I’m currently learning more about geometric deep learning! 
+- 🌱 I'm constantly learning and currently delving deeper into the field of geometric deep learning.
+
+Feel free to reach out if you'd like to connect or collaborate on any of these topics!
