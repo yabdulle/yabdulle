@@ -12,4 +12,4 @@ Other Research Interests
 
 
 📬 Connect with Me
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yusufab/) or send me an [email](mailto:yusuf.abdulle.20@ucl.ac.uk).
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yusufab/) or send me an [email](mailto:yusuf.abdulle.20@ucl.ac.uk).
