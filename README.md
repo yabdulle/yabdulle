@@ -1,8 +1,8 @@
 ### Hi there! 👋🏾
-I'm Yusuf. I’m a Research Assistant at the Institute of Health Informatics, University College London, where I am part of KnowLab, a research group that focuses on AI in Healthcare.
+I'm Yusuf. I’m a PhD student in the Department of Biostatistics and Health Informatics, part of the Institute of Psychiatry, Psychology & Neuroscience (IoPPN), King’s College London.
 
 Current Research
-- I'm working on using Knowledge Graphs and Graph Machine Learning for early diagnosis and of rare neurodegenerative diseases.
+- My PhD thesis is focusing on the development and training of a multimodal AI model to predict individuals at risk of ALS/MND and predict their progression throuhgout the disease.
 
 
 Other Research Interests
